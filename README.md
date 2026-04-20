@@ -9,8 +9,13 @@ Plus a **threat hunting cheatsheet** covering event IDs, attack chains, and dete
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
 
 ---
+## Preview 
+
+<img width="1663" height="973" alt="html" src="https://github.com/user-attachments/assets/c7a0861a-1886-40ae-8403-8b78b8fe8571" />
 
 
+
+---
 ## 📦 What's in the Repo
 
 | File | Description |
